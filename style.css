@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+background-image: url(https://media.istockphoto.com/photos/halloween-holiday-decorations-picture-id1175402608?k=20&m=1175402608&s=612x612&w=0&h=ThSsUI4ceOz7EcKSWS9Kc0eRjFTh-o6luEaSSWJFQdM=)
+}
+h1 {
+  color:black;
+  border-style: groove;
+  background-color: DarkRed;
+
+}
+h2 {
+  color:black;
+}
+h3 {
+  color:Indigo;
+}
+h4 {
+  color:pink;
+}
+h5 {
+  color:green;
+}
+ul {
+  color:DarkMagenta;
+}
+
+
+table, th, td {
+  border:6px solid black;
+}
